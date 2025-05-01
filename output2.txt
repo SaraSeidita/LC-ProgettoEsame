@@ -1,0 +1,68 @@
+ PRIMO FILE 
+('Per il file', 'Alice Adventures in Wonderland by Lewis Carroll')
+-
+          
+----------
+Dieci nomi propri piu frequenti del primo file
+ Alice 174
+ Gryphon 21
+ Hare 18
+ Hatter 16
+ Project 15
+ Bill 11
+ Queen 11
+ Dinah 10
+ Mystery 6
+ Dormouse 4
+          
+----------
+Dieci luoghi piu frequenti
+ Alice 14
+ Longitude 4
+ Stretching 3
+ Pigeon 3
+ Gryphon 2
+ French 2
+ English 2
+ Tillie 1
+ Miss 1
+ D 1
+          
+----------
+Dieci sostantivi e verbi piu frequenti
+('I dieci sostantivi e verbi piu frequenti del file sono:', ('Sostantivi:', [(u'Alice', 221), (u'\u2018I', 35), (u'\u2019', 35), (u'Hatter', 28), (u'Gryphon', 25), (u'way', 24), (u'Queen', 22), (u'Project', 22), (u'Mock', 22), (u'Turtle', 22)], 'Verbi:', [(u'said', 207), (u'was', 129), (u'had', 67), (u'be', 45), (u'is', 37), (u'have', 35), (u'went', 31), (u'were', 24), (u'know', 24), (u'did', 23)]))
+          
+ SECONDO FILE 
+-
+('Per il file', 'Peter Pan by J. M. Barrie')
+          
+----------
+Dieci nomi propri piu frequenti
+ Wendy 490
+ Peter 465
+ John 243
+ Michael 198
+ Hook 142
+ Nana 71
+ Tootles 59
+ Tink 57
+ Smee 55
+ Nibs 54
+          
+----------
+Dieci luoghi piu frequenti
+ Wendy 490
+ Peter 465
+ John 243
+ Michael 198
+ Hook 142
+ Nana 71
+ Tootles 59
+ Tink 57
+ Smee 55
+ Nibs 54
+          
+----------
+Dieci sostantivi e verbi piu frequenti
+('I dieci sostantivi e verbi piu frequenti del file sono:', ('Sostantivi:', [(u'Wendy', 505), (u'Peter', 478), (u'John', 243), (u'Michael', 200), (u'Hook', 157), (u'\u201d', 124), (u'\u201cI', 119), (u'Nana', 73), (u'Tink', 71), (u'time', 64)], 'Verbi:', [(u'was', 546), (u'said', 328), (u'had', 316), (u'is', 246), (u'be', 156), (u'have', 140), (u'were', 123), (u'are', 112), (u'cried', 99), (u'did', 95)]))
+          

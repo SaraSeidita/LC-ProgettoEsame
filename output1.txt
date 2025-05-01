@@ -1,0 +1,117 @@
+                    
+                    
+1. NUMERO TOTALE DELLE FRASI E DI TOKEN ------
+ 
+	Numero frasi e numero token del File 1 (Alice nel Paese delle Meraviglie) :
+('Frasi:', 1194649, 'Token:', 35585)
+	
+Numero frasi e numero token del File 2 (Peter Pan) :
+('Frasi:', 6563844, 'Token:', 60229)
+  
+--------------------
+  
+2. LUNGHEZZA MEDIA DELLE FRASI IN TERMINI DI TOKEN E LA LUNGHEZZA MEDIA DELLE PAROLE IN TERMINI DI CARATTERE -----
+ 
+	Lunghezza media frasi e token del File 1 (Alice nel Paese delle Meraviglie) :
+('Frasi:', 32.55718206770357, 'Token:', 0.0017423071518898412)
+	
+Lunghezza media frasi e token del File 2 (Peter Pan) :
+('Frasi:', 23.508587041373925, 'Token:', 0.0006973384914243969)
+ 
+--------------------
+ 
+3. GRANDEZZA DEL VOCABOLARIO E DISTRIBUZIONE DEGLI HAPAX PER AUMENTO DI PORZIONI INCREMENTALI DI 1000 TOKEN -----
+	 Incremento degli hapax del File 1 (Alice nel Paese delle Meraviglie) :
+[988, 1081]
+	 Incremento degli hapax del File 2 (Peter Pan) :
+[982, 1982, 2541]
+ 
+--------------------
+4. IL RAPPORTO TRA SOSTANTIVI E VERBI ------
+ 
+	Il rapporto S/V del File 1 (Alice nel Paese delle Meraviglie) :
+3.88822355289
+	
+Il rapporto S/V del File 2 (Peter Pan) :
+3.68836183122
+ 
+--------------------
+ 
+5. I DIECI POS PIU FREQUENTI------
+ 
+	I dieci PoS piu frequenti del File 1 (Alice nel Paese delle Meraviglie)
+	NN 	occorre	: 3896 volte
+	IN 	occorre	: 3285 volte
+	DT 	occorre	: 3237 volte
+	, 	occorre	: 2565 volte
+	NNP 	occorre	: 2390 volte
+	JJ 	occorre	: 2389 volte
+	PRP 	occorre	: 2356 volte
+	VBD 	occorre	: 2276 volte
+	RB 	occorre	: 1842 volte
+	: 	occorre	: 1590 volte
+	
+I dieci PoS piu frequenti del File 2 (Peter Pan)
+	NN 	occorre	6687 volte
+	IN 	occorre	5703 volte
+	PRP 	occorre	4903 volte
+	DT 	occorre	4602 volte
+	VBD 	occorre	4201 volte
+	, 	occorre	4009 volte
+	RB 	occorre	3559 volte
+	NNP 	occorre	3227 volte
+	JJ 	occorre	3134 volte
+	. 	occorre	2972 volte
+ 
+	 6. PROBABILITà CONDIZIONATA MASSIMA 
+
+ 
+			File 1 (Alice nel Paese delle Meraviglie) :
+	('VBD', 2276) ('RB', 1842) 		: 100.0
+	('RB', 1842) (':', 1590) 		: 100.0
+	('PRP', 2356) ('VBD', 2276) 		: 100.0
+	('NNP', 2390) ('JJ', 2389) 		: 100.0
+	('NN', 3896) ('IN', 3285) 		: 100.0
+	('JJ', 2389) ('PRP', 2356) 		: 100.0
+	('IN', 3285) ('DT', 3237) 		: 100.0
+	('DT', 3237) (',', 2565) 		: 100.0
+	(',', 2565) ('NNP', 2390) 		: 100.0
+ 
+			File 2 (Peter Pan) :
+ 
+	('VBD', 4201) (',', 4009) 		: 100.0
+	('RB', 3559) ('NNP', 3227) 		: 100.0
+	('PRP', 4903) ('DT', 4602) 		: 100.0
+	('NNP', 3227) ('JJ', 3134) 		: 100.0
+	('NN', 6687) ('IN', 5703) 		: 100.0
+	('JJ', 3134) ('.', 2972) 		: 100.0
+	('IN', 5703) ('PRP', 4903) 		: 100.0
+	('DT', 4602) ('VBD', 4201) 		: 100.0
+	(',', 4009) ('RB', 3559) 		: 100.0
+          
+	
+ 7. FORZA ASSOCIATIVA MASSIMA CALCOLATA IN TERMINI DI LMI
+			File 1 (Alice nel Paese delle Meraviglie) :
+	('VBD', 2276) ('RB', 1842) 		: -3.32192809489
+	('RB', 1842) (':', 1590) 		: -3.32192809489
+	('PRP', 2356) ('VBD', 2276) 		: -3.32192809489
+	('NNP', 2390) ('JJ', 2389) 		: -3.32192809489
+	('NN', 3896) ('IN', 3285) 		: -3.32192809489
+	('JJ', 2389) ('PRP', 2356) 		: -3.32192809489
+	('IN', 3285) ('DT', 3237) 		: -3.32192809489
+	('DT', 3237) (',', 2565) 		: -3.32192809489
+	(',', 2565) ('NNP', 2390) 		: -3.32192809489
+ 
+			File 2 (Peter Pan) :
+ 
+	('VBD', 4201) (',', 4009) 		: -3.32192809489
+	('RB', 3559) ('NNP', 3227) 		: -3.32192809489
+	('PRP', 4903) ('DT', 4602) 		: -3.32192809489
+	('NNP', 3227) ('JJ', 3134) 		: -3.32192809489
+	('NN', 6687) ('IN', 5703) 		: -3.32192809489
+	('JJ', 3134) ('.', 2972) 		: -3.32192809489
+	('IN', 5703) ('PRP', 4903) 		: -3.32192809489
+	('DT', 4602) ('VBD', 4201) 		: -3.32192809489
+	(',', 4009) ('RB', 3559) 		: -3.32192809489
+ 
+
